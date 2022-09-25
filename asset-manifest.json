@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-webgl-interactive-image-demo/static/css/main.f5188bf3.chunk.css",
+    "main.js": "/react-webgl-interactive-image-demo/static/js/main.0b221dd9.chunk.js",
+    "main.js.map": "/react-webgl-interactive-image-demo/static/js/main.0b221dd9.chunk.js.map",
+    "runtime-main.js": "/react-webgl-interactive-image-demo/static/js/runtime-main.3868fc34.js",
+    "runtime-main.js.map": "/react-webgl-interactive-image-demo/static/js/runtime-main.3868fc34.js.map",
+    "static/js/2.6915ef62.chunk.js": "/react-webgl-interactive-image-demo/static/js/2.6915ef62.chunk.js",
+    "static/js/2.6915ef62.chunk.js.map": "/react-webgl-interactive-image-demo/static/js/2.6915ef62.chunk.js.map",
+    "index.html": "/react-webgl-interactive-image-demo/index.html",
+    "static/css/main.f5188bf3.chunk.css.map": "/react-webgl-interactive-image-demo/static/css/main.f5188bf3.chunk.css.map",
+    "static/js/2.6915ef62.chunk.js.LICENSE.txt": "/react-webgl-interactive-image-demo/static/js/2.6915ef62.chunk.js.LICENSE.txt",
+    "static/media/logo3.a8d2e1a0.png": "/react-webgl-interactive-image-demo/static/media/logo3.a8d2e1a0.png",
+    "static/media/logo3_small.08edae71.png": "/react-webgl-interactive-image-demo/static/media/logo3_small.08edae71.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3868fc34.js",
+    "static/js/2.6915ef62.chunk.js",
+    "static/css/main.f5188bf3.chunk.css",
+    "static/js/main.0b221dd9.chunk.js"
+  ]
+}

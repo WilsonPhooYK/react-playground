@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-webgl-interactive-image-demo/static/css/main.43c432ec.css",
-    "main.js": "/react-webgl-interactive-image-demo/static/js/main.8ab89c91.js",
-    "static/js/787.b3f913c4.chunk.js": "/react-webgl-interactive-image-demo/static/js/787.b3f913c4.chunk.js",
+    "main.css": "/react-webgl-interactive-image-demo/static/css/main.89efda22.css",
+    "main.js": "/react-webgl-interactive-image-demo/static/js/main.be368884.js",
+    "static/js/787.20cf200d.chunk.js": "/react-webgl-interactive-image-demo/static/js/787.20cf200d.chunk.js",
     "static/media/logo2.png": "/react-webgl-interactive-image-demo/static/media/logo2.a8d2e1a09a9d56957e36.png",
     "index.html": "/react-webgl-interactive-image-demo/index.html",
-    "main.43c432ec.css.map": "/react-webgl-interactive-image-demo/static/css/main.43c432ec.css.map",
-    "main.8ab89c91.js.map": "/react-webgl-interactive-image-demo/static/js/main.8ab89c91.js.map",
-    "787.b3f913c4.chunk.js.map": "/react-webgl-interactive-image-demo/static/js/787.b3f913c4.chunk.js.map"
+    "main.89efda22.css.map": "/react-webgl-interactive-image-demo/static/css/main.89efda22.css.map",
+    "main.be368884.js.map": "/react-webgl-interactive-image-demo/static/js/main.be368884.js.map",
+    "787.20cf200d.chunk.js.map": "/react-webgl-interactive-image-demo/static/js/787.20cf200d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43c432ec.css",
-    "static/js/main.8ab89c91.js"
+    "static/css/main.89efda22.css",
+    "static/js/main.be368884.js"
   ]
 }
